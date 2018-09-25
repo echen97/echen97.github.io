@@ -1,14 +1,6 @@
-I created the index.html so that there was a photo of me 
-centered, as well as buttons leading to my resume and biography. 
+I believe that everything has been correctly implemented 
 
-I then created the content for both the resume and biography.
-
-After I had the bare bones (just the text) of the resume, index
-and biography, I styled each one with a CSS file. Centering the photos, 
-making sure that the text was the size that I wanted, and creating
-a background. 
-
-
+I spent approximately 4 hours on this assignment
 
 NOTE: I was having a lot of problems with my echen97.github.io. I was pushing
 relatively consistently, but I ended up having a bunch of errors when I tried
