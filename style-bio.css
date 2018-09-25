@@ -1,0 +1,22 @@
+body {
+	background-color: #D2B48C;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	height: 5px;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 250px; height:200px;
+}

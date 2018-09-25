@@ -1,0 +1,22 @@
+body {
+	background-color: #D2B48C;
+}
+
+h1 {
+	font-size: 50px;
+	height: 20px;
+	text-align: center;
+}
+
+h2 {
+ 	font-weight: lighter;
+ 	text-align: center;
+ }
+
+ h3,h4 {
+ 	height: 5px;
+ }
+
+ li {
+ 	list-style-type: square;
+ }
